@@ -1,0 +1,6 @@
+{
+  "screen_shots" : [
+    { "filename" : "test_screen_shot_1", "dir_name" : "test_dir", "desc" : "Do dis to get take screencap..." },
+    { "filename" : "test_screen_shot_2", "dir_name" : "test_dir", "desc" : "Do dis to get take screencap..." },
+    { "filename" : "test_screen_shot_3", "dir_name" : "test_dir", "desc" : "Do dis to get take screencap..." }
+  ]}
